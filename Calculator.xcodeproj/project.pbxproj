@@ -14,6 +14,7 @@
 		0A2D6A0321DD3ECE00CBC78A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A2D6A0121DD3ECE00CBC78A /* LaunchScreen.storyboard */; };
 		0A2D6A0E21DD3ECE00CBC78A /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D6A0D21DD3ECE00CBC78A /* CalculatorTests.swift */; };
 		0A2D6A1921DD3ECE00CBC78A /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D6A1821DD3ECE00CBC78A /* CalculatorUITests.swift */; };
+		0A2D6A2921DD5C9700CBC78A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D6A2821DD5C9700CBC78A /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0A2D6A1421DD3ECE00CBC78A /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A2D6A1821DD3ECE00CBC78A /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		0A2D6A1A21DD3ECE00CBC78A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A2D6A2821DD5C9700CBC78A /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0A2D69F821DD3ECC00CBC78A /* AppDelegate.swift */,
 				0A2D69FA21DD3ECC00CBC78A /* ViewController.swift */,
 				0A2D69FC21DD3ECC00CBC78A /* Main.storyboard */,
+				0A2D6A2821DD5C9700CBC78A /* SettingsViewController.swift */,
 				0A2D69FF21DD3ECE00CBC78A /* Assets.xcassets */,
 				0A2D6A0121DD3ECE00CBC78A /* LaunchScreen.storyboard */,
 				0A2D6A0421DD3ECE00CBC78A /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				0A2D69FB21DD3ECC00CBC78A /* ViewController.swift in Sources */,
 				0A2D69F921DD3ECC00CBC78A /* AppDelegate.swift in Sources */,
+				0A2D6A2921DD5C9700CBC78A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
